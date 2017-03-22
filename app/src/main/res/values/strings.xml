@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">interiit1</string>
+
+    <string-array name="items_to_do">
+        <item>Grocery</item>
+        <item>Stationary</item>
+        <item>abc</item>
+        <item>xyz</item>
+    </string-array>
+
+    <string-array name="items_to_do1">
+        <item>Toothbrush</item>
+        <item>Hair Oil</item>
+        <item>Notebook</item>
+        <item>Headphones</item>
+    </string-array>
+
+    <string-array name="items_to_do2">
+        <item>b1</item>
+        <item>b2</item>
+        <item>b3</item>
+        <item>b4</item>
+    </string-array>
+
+    <string-array name="items_to_do3">
+        <item>c1</item>
+        <item>c2</item>
+        <item>c3</item>
+        <item>c4</item>
+    </string-array>
+
+    <string-array name="items_to_do4">
+        <item>d1</item>
+        <item>d2</item>
+        <item>d3</item>
+        <item>d4</item>
+    </string-array>
+
+</resources>
